@@ -14,11 +14,6 @@ function App() {
       </Routes>
     </Suspense>
   </Router>
-    // <div>
-    //   <Suspense fallback={<div>Loading...</div>}>
-    //     <Delay/>
-    //   </Suspense>
-    // </div>
   );
 }
 
